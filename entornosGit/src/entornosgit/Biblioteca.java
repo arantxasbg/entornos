@@ -75,8 +75,8 @@ public class Biblioteca {
         System.out.println("Número de discos prestados: " + cuentaPestrados(discos));
         
         
-        
-    
+        System.out.println("Hasta luego Marikarmen");   
+        System.out.println("QUE TU HIJO ESTÁ EN EL AFTERAUER");
     }
     
 }
